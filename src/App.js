@@ -16,11 +16,12 @@ function App() {
       <h4>Why People Choose Us Over The Rest.</h4>
       <Inform />
       <br />
+      <br />
       <Sortbar />
       <br />
       <Users />
       <br />
-      <h5><a href="..." style={{color: "rgb(30, 123, 211)"}}>View More</a></h5>
+      <h5><a href="..." style={{ color: "rgb(30, 123, 211)" }}>View More</a></h5>
       <br />
       <Footer />
     </div>

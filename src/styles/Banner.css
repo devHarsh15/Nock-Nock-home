@@ -6,3 +6,15 @@
   z-index: 10;
   position: relative;
 }
+
+#search {
+  width: 35%;
+}
+
+.financing {
+  color: whitesmoke;
+  text-decoration: underline;
+}
+.financing:hover {
+  color: whitesmoke;
+}
