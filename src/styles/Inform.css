@@ -1,0 +1,9 @@
+#inform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#inform * {
+    margin-top: 1.5rem;
+}

@@ -1,0 +1,16 @@
+#sortbar {
+    width: 20rem !important;
+    border-radius: 7%;
+}
+
+.sortbar-input {
+    border: none;
+    border-bottom: 2px solid rgb(13, 23, 161);
+}
+.sortbar-input:focus {
+    outline: none;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
+    transition-property: all;
+    border-bottom: 2px solid rgb(98, 169, 250);
+}
